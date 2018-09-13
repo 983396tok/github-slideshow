@@ -1,6 +1,5 @@
-
-      execjs
-    coffee-script-source (1.12.2)
+gem « github-pages » , группа  :: jekyll_pluginscjsbundlenstall
+    coffee-script-source (1.12.2)Бег bundle install
     colorator (1.1.0)
     colored (1.2)
     ethon (0.10.1)
